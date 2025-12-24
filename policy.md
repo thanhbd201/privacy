@@ -1,103 +1,137 @@
-Privacy Policy – Cybertruck Mobile
+Privacy Policy – CyberTruck-Mobile
 
-This Privacy Policy explains how Cybertruck Mobile collects, uses, and protects user data during the operation of our services. By using the application, you agree to the terms described below.
+Last updated: 12/24/2025
+
+CyberTruck-Mobile is an application developed to support corporate fleet management, including driver tracking, task updates, and operational safety monitoring. We are committed to protecting user data and complying with Google Play policies and applicable data protection regulations.
+
+This Privacy Policy explains what data we collect, how we use it, and the purpose of each permission requested by the application.
 
 1. Information We Collect
-
-1.1 Location Data – Primary Data Processed by the App
-
-The application collects:
-
-Real-time GPS location
-
-Background location updates
-
-Motion data such as speed and direction (depending on device capability)
-
-Purpose: This data is used strictly for operational needs such as journey monitoring, workflow management, fleet coordination, and ensuring the safety of vehicles and assets belonging to your organization.
-
-The app does not use location data for advertising, personal tracking outside of work responsibilities, or any commercial purposes.
-
-1.2 Device Information
+1.1. Location Data (GPS)
 
 We may collect:
 
-Device model, OS version (Android/iOS)
+Precise location (GPS and network-based)
 
-Cybertruck Mobile app version
+Approximate location
 
-IP address, push notification token
+Background location data
 
-1.3 Account Information
+Purpose:
 
-Account ID or internal system identifier
+Track vehicle and driver movement for fleet management.
 
-Basic authentication information for logging in
+Assist in safety monitoring, task updates, and route optimization.
 
-The app does not collect sensitive personal data such as contacts, photos, call logs, or personal emails unless explicitly granted by the user.
+Ensure accurate reporting for dispatch and operational oversight.
 
-2. How We Use Information
+We do not use location data for advertising or sell it to third parties.
 
-We use collected data to:
+1.2. Network & Device Information
 
-2.1 Operate Core Application Features
+We may collect:
 
-Real-time location tracking
+Internet connection status
 
-Route and trip recording
+Session information
 
-Managing workflows, schedules, and transport routes
+Temporary IP address for server communication
 
-Supporting dispatching and optimizing operational efficiency
+Technical logs for troubleshooting
 
-2.2 Improve Service Quality
+2. Permissions We Use and Their Purpose
 
-Enhance app stability
+Below is a detailed explanation of all permissions required by the application and why they are needed, in compliance with Google Play requirements.
 
-Analyze system errors and performance
+2.1. android.permission.INTERNET
 
-Improve tracking accuracy and security measures
+Purpose:
 
-2.3 Ensure Safety and Asset Protection
+Allows the app to communicate with the company’s servers.
 
-Prevent loss or misuse of vehicles
+Transmit work updates, job data, driver status, and location reports.
+No data is shared with external third parties.
 
-Assist organizations in responding to incidents or support requests
+2.2. android.permission.ACCESS_FINE_LOCATION
+
+Purpose:
+
+Obtain precise GPS location for accurate driver route tracking.
+
+Record the user's location when submitting task updates or safety checks.
+
+2.3. android.permission.ACCESS_COARSE_LOCATION
+
+Purpose:
+
+Access approximate location when GPS signal is weak.
+
+Ensure continuous tracking even in indoor or low-signal environments.
+
+2.4. android.permission.ACCESS_BACKGROUND_LOCATION
+
+(Special permission – must be clearly justified)
+Purpose:
+
+Allow the app to collect location data even when running in the background.
+
+Provide continuous tracking, ensuring accurate trip logs and safety monitoring.
+
+Required for 24/7 fleet operations where tracking cannot stop when the app is minimized.
+
+This permission is not used for advertising, personal profiling, or any non-work-related monitoring.
+
+2.5. android.permission.FOREGROUND_SERVICE
+
+Purpose:
+
+Allows the app to run a foreground service with a persistent notification.
+
+Ensures uninterrupted tracking and prevents the system from stopping the service.
+
+2.6. android.permission.FOREGROUND_SERVICE_LOCATION
+
+Purpose:
+
+Supports location access specifically within the foreground service.
+
+Ensures stable and compliant location tracking under modern Android security requirements.
 
 3. Data Sharing
 
-We do not sell, trade, or share your information with third parties for commercial purposes.
+CyberTruck-Mobile does not share user data with any third-party companies, advertisers, or analytics providers.
+Data is only transferred securely to the organization’s internal servers or authorized infrastructure.
 
-Data may only be shared in the following circumstances:
+All data transmission is encrypted via secure protocols (HTTPS/TLS).
 
-When required by law or legal processes
+4. Data Storage & Security
 
-When necessary for backend system operations (e.g., cloud infrastructure providers)
+All transmitted data is encrypted.
 
-When the organization that owns your account requests data retrieval for operational purposes
+Access to stored data is restricted to authorized personnel within the organization.
 
-In all cases, we ensure data sharing is minimized to only what is strictly necessary.
+We implement industry-standard security measures to prevent unauthorized access, disclosure, or misuse.
 
-4. Data Security
+5. User Rights
 
-We implement multiple layers of security, including:
+Users have the right to:
 
-Encryption during data transmission and storage
+Deny location permissions (some features may be limited).
 
-Secure authentication using tokens or internal keys
+Request to view, update, or delete personal data through their organization.
 
-Role-based access control to restrict data access
+Disable location tracking by signing out or stopping the related foreground service.
 
-Access monitoring to detect suspicious activities
+6. Children’s Privacy
 
-While no system can guarantee absolute security, we are committed to protecting your data to the highest practical level.
+The application is not intended for children under 18 years of age, and we do not knowingly collect data from minors.
 
-5. Children’s Privacy
+7. Contact Information
 
-This application is not intended for children under the age of 13, and we do not knowingly collect data from children.
+For any questions regarding this Privacy Policy or data handling practices, please contact:
 
-6. Contact Us
+Company: Cyberlogs
 
-If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+Support Email: thanhbd002.robotor@gmail.com
 
-📧 Email: bthanh2012000@gmail.com
+Address: Ha Long, Quang Ninh, Viet Nam
