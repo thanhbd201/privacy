@@ -3,6 +3,7 @@ Privacy Policy – Cybertruck Mobile
 This Privacy Policy explains how Cybertruck Mobile collects, uses, and protects user data during the operation of our services. By using the application, you agree to the terms described below.
 
 1. Information We Collect
+
 1.1 Location Data – Primary Data Processed by the App
 
 The application collects:
