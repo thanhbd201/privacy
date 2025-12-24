@@ -85,8 +85,6 @@ This permission is not used for advertising, personal profiling, or any non-work
 
 Purpose:
 
-Allows the app to run a foreground service with a persistent notification.
-
 Ensures uninterrupted tracking and prevents the system from stopping the service.
 
 2.6. android.permission.FOREGROUND_SERVICE_LOCATION
